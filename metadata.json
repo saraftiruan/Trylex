@@ -1,0 +1,7 @@
+{
+  "name": "TriyLex — Legal Case Analyst Platform",
+  "description": "Structured Legal Intelligence System & Case Analyst Platform powered by ULPE-AW multi-layer reasoning, evidence traceability, and verification workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
